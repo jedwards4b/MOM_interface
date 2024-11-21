@@ -1,8 +1,8 @@
 [submodule "MOM6"]
   path = MOM6
-  url = https://github.com/NCAR/MOM6.git
+  url = https://github.com/jedwards4b/MOM6.git
   fxDONOTUSEurl = https://github.com/NCAR/MOM6.git
-    fxtag = dev/ncar_241101
+    fxtag = ncar_241101_use_atan2_for_nvhpc01
     fxrequired = AlwaysRequired
 
 [submodule "stochastic_physics"]
